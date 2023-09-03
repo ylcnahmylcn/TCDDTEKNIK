@@ -23,6 +23,9 @@ Claim <br/>
 Exception Middleware <br/>
 Service Collection <br/>
 Error Handling <br/>
-Validation Error Details <br/>
+Validation Error Details <br/> 
+# Note - Not 
+TCDD Teknik A.Ş. nin gizlilik politikaları nedeniyle bu projenin veritabı gerçek olmayan örnek arızalar kullanılmıştır.
+
 
 
